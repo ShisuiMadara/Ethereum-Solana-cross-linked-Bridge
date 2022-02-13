@@ -19,8 +19,6 @@
  
  <h2><strong>Getting Started</strong></h2>
  
- This will provide the mnemonic along with accounts and private key
- 
  Initialise truffle using
  <br>
  ```truffle init ```
@@ -32,6 +30,7 @@
   ganache
   
   ```
+  This will provide the mnemonic along with accounts and private key
   
   To use the Solana Test Net environment,
   
@@ -45,7 +44,7 @@
  <br>
  ```truffle migrate --reset --network ethTestnet```
  
- To deploy on the Avalanche Test Net,
+ To deploy on the Solana Test Net,
  <br>
- ```truffle migrate --reset --network avaTestnet```
+ ```truffle migrate --reset --network solTestnet```
   
