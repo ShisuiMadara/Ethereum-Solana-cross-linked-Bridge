@@ -1,4 +1,4 @@
-# Ethereum-Solana-cross-linked-Bridge
+# Ethereum-Solana-Cross-Linked-Bridge
 
 
 <p>The uncentralised bridge is based on ERC721 token allowing the user to trade between the two chains.</p>
